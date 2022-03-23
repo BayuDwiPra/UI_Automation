@@ -1,5 +1,3 @@
-# kompas-webdriverio
-
 # How to Setup
 
 `clone the repository`
