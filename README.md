@@ -3,11 +3,11 @@
 `clone the repository`
 // membuka terminal, kemudian clone repository
 
-// jika menggunakan selain linux cukup
 `git clone https://github.com/BayuDwiPra/UI_Automation.git`
+// jika menggunakan selain linux cukup
 
-// jika menggunakan linux tuliskan command 
 `sudo git clone https://github.com/BayuDwiPra/UI_Automation.git`
+// jika menggunakan linux tuliskan command 
 
 # How to install
 
